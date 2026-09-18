@@ -4,7 +4,7 @@
 
 ### ｡･:*˚:✧｡ A tiny calculator with a cute little personality ｡･:*˚:✧｡
 
-<img src="./image/calculator.png" width="420">
+<img src="./image/cute-calculator.png" width="420">
 
 <br>
 
